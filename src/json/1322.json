@@ -1,0 +1,98 @@
+[
+  {
+    "customerOrderNumber": "24901288",
+    "ticketNumber": "4",
+    "ticketCreatedDate": "2021-11-12T17:30:09.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "IN_PROGRESS",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "John",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901289",
+    "ticketNumber": "5",
+    "ticketCreatedDate": "2021-11-12T17:35:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "IN_PROGRESS",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901290",
+    "ticketNumber": "6",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "Ready_For_Handoff",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901291",
+    "ticketNumber": "7",
+    "ticketCreatedDate": "2021-11-12T17:35:00.119Z",
+    "orderMode" : "TICKET",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901292",
+    "ticketNumber": "8",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "Ready_For_Handoff",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901293",
+    "ticketNumber": "9",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "Ready_For_Handoff",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901294",
+    "ticketNumber": "10",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "IN_PROGRESS",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901295",
+    "ticketNumber": "11",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "INSTORE_GUEST",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "Ready_For_Handoff",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "customerOrderNumber": "24901288",
+    "ticketNumber": "1",
+    "ticketCreatedDate": "2021-11-12T17:30:09.119Z",
+    "orderMode" : "TICKET",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "IN_PROGRESS",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "John",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901289",
+    "ticketNumber": "2",
+    "ticketCreatedDate": "2021-11-12T17:35:00.119Z",
+    "orderMode" : "TICKET",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "IN_PROGRESS",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  },
+  {
+    "customerOrderNumber": "24901290",
+    "ticketNumber": "3",
+    "ticketCreatedDate": "2021-11-12T17:37:00.119Z",
+    "orderMode" : "TICKET",
+    "externalOrderNumber":"",
+    "source":"",
+    "orderStatus": "Ready_For_Handoff",
+    "lastModifiedDate": "2023-08-18T18:42:22.395Z",
+    "customerFirstName": "Bob",
+    "customerLastName": "Deere"
+  }
+]
